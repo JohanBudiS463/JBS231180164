@@ -1,1 +1,3 @@
-echo "G.231.18.0164 - Johan Budi Santoso" > README
+COMMIT 1
+
+G.231.18.0164 - Johan Budi Santoso
